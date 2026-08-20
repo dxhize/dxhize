@@ -1,4 +1,4 @@
-# Hi, I'm [Dxhize] 👋
+# Hi, I'm Dxhize. 👋
 I am an ECE undergraduate focusing on low-level systems engineering, mathematics, and building optimized software from first principles. 
 
 ## 🛠️ Tech Stack & Workstation
