@@ -3,7 +3,7 @@ I am an ECE undergraduate focusing on low-level systems engineering, mathematics
 
 ## 🛠️ Tech Stack & Workstation
 - **OS:** Fedora Linux (Daily Driver)
-- **Languages:** C, Python, JavaScript
+- **Languages:** C, Python
 - **Core Interests:** Algorithm Optimization, Embedded Systems, Signal Processing
 
 ## 📈 Current Milestones
