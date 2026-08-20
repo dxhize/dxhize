@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi, I'm [Dxhize] 👋
+I am an ECE undergraduate focusing on low-level systems engineering, mathematics, and building optimized software from first principles. 
 
-<!--
-**dxhize/dxhize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Workstation
+- **OS:** Fedora Linux (Daily Driver)
+- **Languages:** C, Python, JavaScript
+- **Core Interests:** Algorithm Optimization, Embedded Systems, Signal Processing
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Milestones
+- 🎓 Transitioning from **CS50p** to **CS50x** to master low-level memory layout.
+- 📐 Reviewing calculus and linear algebra to optimize code execution efficiency.
+- 🎯 Target: Contributing to open-source organizations in GSOC 2027.
