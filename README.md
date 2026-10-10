@@ -31,6 +31,8 @@ I was the primary builder of [Deep Researcher](https://github.com/Deep-researche
 
 This project reflects the kind of systems work I enjoy most: combining architecture, modeling, retrieval, and user-facing execution into one coherent pipeline.
 
+I also collaborated closely with **@chiraglaheru** on the project as a co-developer, contributing to backend integration, system design, and project-level engineering decisions.
+
 ### What I built
 
 - **Core research pipeline architecture**: designed the LangGraph-based orchestration for planning, search, evidence collection, and synthesis
