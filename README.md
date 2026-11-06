@@ -23,6 +23,8 @@ I enjoy working at the intersection of systems, algorithms, and performance. My 
 - 📐 strengthening calculus and linear algebra to improve performance reasoning and numerical rigor
 - 🎯 aiming to contribute to open-source projects and pursue opportunities in GSOC 2027
 
+![snake gif](https://github.com/dxhize/dxhize/blob/output/github-snake-dark.svg)
+
 ## Featured Project
 
 ### Deep Researcher
