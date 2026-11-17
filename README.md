@@ -4,7 +4,7 @@ I'm an ECE undergraduate interested in low-level systems, efficient software, an
 
 - **Languages:** C, Python
 - **Interests:** systems programming, embedded software, optimization, signal processing, and numerical reasoning
-- **Currently learning:** CS50x, calculus, linear algebra, and deeper systems fundamentals
+- **Currently learning:** Deeper systems fundamentals, memory management, dynamic programming
 
 ## Current focus
 
@@ -15,8 +15,6 @@ I'm an ECE undergraduate interested in low-level systems, efficient software, an
 ## Featured project
 
 [**Deep Researcher**](https://github.com/Deep-researcherr/deep-researcher) gathers evidence, validates sources, and synthesizes answers across multiple information streams. I contributed to its core pipeline, retrieval layer, reliability logic, and streaming experience.
-
-I also collaborated with [@chiraglaheru](https://github.com/chiraglaheru) on the project’s architecture and engineering.
 
 ## GitHub activity
 
